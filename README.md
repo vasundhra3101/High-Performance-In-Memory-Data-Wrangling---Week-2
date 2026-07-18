@@ -205,18 +205,18 @@ Through this project, the following concepts were implemented:
 
 ---
 
-##Category Revenue
+## Category Revenue
 
 <img width="2100" height="1500" alt="category_revenue" src="https://github.com/user-attachments/assets/9b02b715-c887-44b1-b592-a8413e20c576" />
 
-##City Transactions
+## City Transactions
 
 <img width="2100" height="1500" alt="category_revenue" src="https://github.com/user-attachments/assets/f89c9091-83bf-4ea3-b577-54e4ce9fce33" />
 
-##Payment Distribution
+## Payment Distribution
 
 <img width="2100" height="1500" alt="payment_distribution" src="https://github.com/user-attachments/assets/8f986c03-cbb3-4ca0-804e-753c39d15bb6" />
 
-##Top Customers
+## Top Customers
 
 <img width="2400" height="1500" alt="top_customers" src="https://github.com/user-attachments/assets/20c896d9-a2f8-40d5-a20d-915ba090e76d" />
